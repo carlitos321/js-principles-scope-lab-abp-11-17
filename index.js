@@ -1,7 +1,7 @@
 // Write your solution in this file!
 var customerName = 'bob';
 const leastFavoriteCustomer = 'jim';
-let favoriteCustomer = 'tim';
+
 
 function upperCaseCustomerName() {
   customerName = customerName.toUpperCase()
@@ -23,6 +23,7 @@ function changeLeastFavoriteCustomer() {
   console.log(favoriteCustomer)
 
 function attemptTwoFavoriteCustomers() {
+  let favoriteCustomer = 'tim';
   favoriteCustomer = 'maybe tim';
 
 }
