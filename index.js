@@ -5,7 +5,6 @@ let favoriteCustomer = 'tim';
 
 function upperCaseCustomerName() {
   customerName = customerName.toUpperCase()
-  console.log(customerName)
 }
 
 
