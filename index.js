@@ -6,6 +6,8 @@ function upperCaseCustomerName() {
   console.log(`the customer name is ${customerName}:`)
 }
 
+upperCaseCustomerName()
+
 
 function setBestCustomer() {
   if (customerName = "bob") {
