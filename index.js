@@ -1,8 +1,8 @@
 // Write your solution in this file!
-var customerName = "bob"
+var customerName
 
 
-function upperCaseCustomerName() {
+function upperCaseCustomerName(bob) {
   return customerName.toUpperCase();
   console.log(`the customer name is ${customerName}:`)
 }
