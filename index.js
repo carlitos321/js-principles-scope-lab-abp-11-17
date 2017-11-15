@@ -4,7 +4,7 @@ var customerName = 'bob'
 
 
 function upperCaseCustomerName(customerName.toUpperCase());
-console.log(`the customer name is ${customerName}:`)
+console.log(`the customer name is ${customerName}:`);
 
 
 //function setBestCustomer() {
