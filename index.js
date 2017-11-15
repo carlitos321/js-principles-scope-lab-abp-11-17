@@ -5,7 +5,7 @@ var customerName = 'bob'
 function upperCaseCustomerName(bob) {
   var loudBob = customerName.toUpperCase();
 }
-upperCaseCustomerName(loudBob)
+upperCaseCustomerName(loudBob);
 console.log(`the customer name is ${customerName}:`)
 
 
