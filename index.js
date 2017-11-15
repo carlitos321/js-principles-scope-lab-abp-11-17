@@ -8,6 +8,11 @@ function upperCaseCustomerName() {
 upperCaseCustomerName();
 console.log(`the customer name is ${customerName}:`);
 
+function setBestCustomer() {
+  var bestCustomer = 'not bob'
+  return bestCustomer
+}
+ setBestCustomer();
 
 //function setBestCustomer() {
   //if (customerName = "bob") {
